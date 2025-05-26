@@ -1,28 +1,28 @@
-
 <div align="center">
 
 # 👋 Hello, I'm <strong>Pavan Sonawane</strong>
 
 ### 💡 Passionate Flutter Developer
+<br>
 
 <a href="https://pavan0209.github.io/portfolio/" target="_blank">
-  🌐 <strong>Portfolio</strong>
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/pavansonawane0209/" target="_blank">
-  💼 <strong>LinkedIn</strong>
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://leetcode.com/u/C2W_Pavan/" target="_blank">
-  🧠 <strong>LeetCode</strong>
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
 <a href="https://www.geeksforgeeks.org/user/pavan0209/" target="_blank">
-  📚 <strong>GeeksforGeeks</strong>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-<hr/>
-
+---
 </div>
-
-<!-- --- -->
 
 ## 🚀 About Me
 
@@ -32,7 +32,7 @@ I’m a curious and motivated developer with a strong passion for building smoot
 - 🌱 Exploring **Flutter**, **Dart**, and **backend integration**  
 - 🎓 Graduated in **Information Technology (B.E.)**, 2024  
 - 💻 Love crafting modern UI/UX and scalable mobile experiences  
-- 📫 Reach me at: [pavansonawane0209@gmail.com](mailto:pavansonawane0209@gmail.com)
+- 📫 Reach me at: [pavanasonawane@gmail.com](mailto:pavanasonawane@gmail.com)
 
 ---
 
@@ -51,24 +51,38 @@ I’m a curious and motivated developer with a strong passion for building smoot
 
 ## 📂 Featured Projects
 
-Here are a few projects I’ve worked on that demonstrate my skills and passion:
+🌐 [**Portfolio Website**](https://pavan0209.github.io/portfolio/)  
+A sleek personal portfolio built using Flutter Web to showcase my work and profile.  
+**Key Skills:** Flutter Web, Dart, Responsive Design
 
-- 🌐 **Portfolio Website** – Flutter Web, Dart  
-- ☕ **Brew Crew Firebase** – Flutter app with Firebase integration for real-time data  
-- 📱 **Farmer's Mart** – Modern Flutter UI/UX project focused on e-commerce  
-- 🛠️ **Biker's Hub** – Java desktop app for managing bike service center (JavaFX, MySQL)
+💃 [**Shall We Dance**](https://play.google.com/store/apps/details?id=com.pixel6.shallwedance&pcampaignid=web_share)  
+An interactive mobile app celebrating the cultural richness of Indian classical dance through immersive videos and educational content.  
+**Key Skills:** Flutter, Dart, Figma, API Management
+
+☕ [**Brew Crew Firebase**](https://github.com/pavan0209/brew_crew_firebase)  
+A Firebase-integrated app that lets users choose and customize coffee preferences.  
+**Key Skills:** Flutter, Dart, Firebase Auth & Firestore
+
+📱 [**Farmer's Mart**]()  
+A modern UI/UX focused e-commerce app for farmers and local produce sellers.  
+**Key Skills:** Flutter, Dart, Custom Widgets, UI/UX
+
+🛠️ [**Biker's Hub**]()  
+A Java desktop app to manage bike garage operations like servicing, booking, and billing.  
+**Key Skills:** Java, JavaFX, MySQL
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan0209&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pavan0209&theme=radical&hide_border=false)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan0209&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Pavan's GitHub Stats" width="420" />
+  
+  <img src="https://streak-stats.demolab.com?user=pavan0209&theme=radical&hide_border=false" alt="Pavan's GitHub Streak" width="400" />
 
 </div>
+
 
 ---
 
@@ -90,7 +104,7 @@ Feel free to connect or collaborate on exciting Flutter projects, open-source co
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 &nbsp;
-<a href="mailto:pavansonawane0209@gmail.com">
+<a href="mailto:pavanasonawane@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -99,4 +113,3 @@ Feel free to connect or collaborate on exciting Flutter projects, open-source co
 </a>
 
 </div>
-

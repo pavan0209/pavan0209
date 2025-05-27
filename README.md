@@ -29,7 +29,7 @@
 I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem-solving abilities.
 
 - 🔭 Working at **Pixel6 Web Studio** as a Trainee Software Engineer  
-- 🌱 Exploring **Flutter**, **Dart**, and **backend integration**  
+- 🌱 Leveling up in **Flutter**, **Dart**, and modern mobile application design. 
 - 🎓 Graduated in **Information Technology (B.E.)**, 2024  
 - 💻 Love crafting modern UI/UX and scalable mobile experiences  
 - 📫 Reach me at: [pavanasonawane@gmail.com](mailto:pavanasonawane@gmail.com)
@@ -39,10 +39,10 @@ I’m a curious and motivated developer with a strong passion for building smoot
 ## 🛠️ Tech Stack
 
 ### 🧰 Languages & Frameworks:
-`Dart` `Java` `Python` `C` `HTML/CSS` `Flutter` `JavaFX`
+`Flutter` `Dart` `Java` `Python` `C` `HTML/CSS` `JavaFX`
 
 ### 💾 Databases & Tools:
-`MySQL` `SQFLite` `Hive` `Firebase` `Git` `GitHub` `VS Code`
+`Hive` `MySQL` `SQFLite` `Firebase` `Git` `GitHub` `VS Code`
 
 ### 🧠 State Management:
 `Provider` `GetX` `Redux` `Bloc`

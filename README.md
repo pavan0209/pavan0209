@@ -36,7 +36,7 @@ I’m a curious and motivated developer with a strong passion for building smoot
 
 ---
 
-## 🛠️ Tech Stack
+## <div id="#">🛠️ Tech Stack </div>
 
 ### 🧰 Languages & Frameworks  
 <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;

@@ -80,11 +80,11 @@ An interactive mobile app celebrating the cultural richness of Indian classical 
 A Firebase-integrated app that lets users choose and customize coffee preferences.  
 **Key Skills:** Flutter, Dart, Firebase Auth & Firestore
 
-📱 [**Farmer's Mart**]()  
+📱 [**Farmer's Mart**](https://github.com/pavan0209)  
 A modern UI/UX focused e-commerce app for farmers and local produce sellers.  
 **Key Skills:** Flutter, Dart, Custom Widgets, UI/UX
 
-🛠️ [**Biker's Hub**]()  
+🛠️ [**Biker's Hub**](https://github.com/pavan0209)  
 A Java desktop app to manage bike garage operations like servicing, booking, and billing.  
 **Key Skills:** Java, JavaFX, MySQL
 

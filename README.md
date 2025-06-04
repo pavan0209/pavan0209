@@ -105,7 +105,7 @@ A Java desktop app to manage bike garage operations like servicing, booking, and
 
 ## 🌱 Currently Learning
 
-- 🚀 Deepening knowledge in advanced Flutter architecture & design patterns  
+- 🚀 Deepening knowledge in advanced Flutter architecture, design patterns and state managements.  
 - 🧩 Exploring API testing with **Postman**  
 - 🛡️ Learning clean code practices and scalable project structuring
 

@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem-solving abilities.
+I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem solving abilities.
 
 - 🔭 Working at **Pixel6 Web Studio** as a Trainee Software Engineer.  
 - 🌱 Leveling up in **Flutter**, **Dart**, and modern mobile application design. 

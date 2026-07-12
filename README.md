@@ -71,17 +71,8 @@ Currently working at **Pixel6 Web Studio Pvt. Ltd.**, I build scalable backend a
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat"/>
-<img src="https://img.shields.io/badge/Provider-3F51B5?style=flat"/>
 </p>
 
 ---

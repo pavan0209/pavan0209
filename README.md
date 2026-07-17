@@ -159,12 +159,9 @@ A responsive personal portfolio website showcasing my professional experience, t
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pavan0209&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan0209&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan0209&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavan0209&show_icons=true&theme=tokyonight"/>
 
 </div>
 

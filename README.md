@@ -32,7 +32,7 @@ Passionate about building scalable backend systems, modern web applications, and
 
 # 🚀 About Me
 
-I'm an **Associate Software Engineer** with **2+ years of software development experience**, specializing in **Java Full Stack Development** using **Java 17, Spring Boot, Hibernate, Angular, MySQL, MongoDB, and RESTful APIs**.
+I'm an **Associate Software Engineer** with **3+ years of software development experience**, specializing in **Java Full Stack Development** using **Java 17, Spring Boot, Hibernate, Angular, MySQL, MongoDB, and RESTful APIs**.
 
 Currently working at **Pixel6 Web Studio Pvt. Ltd.**, I build scalable backend applications, design secure REST APIs, optimize database performance, and develop responsive web and mobile applications. Alongside backend development, I also have hands-on experience building production-ready Flutter applications.
 
